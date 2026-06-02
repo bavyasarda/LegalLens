@@ -4,6 +4,8 @@ A personal legal document intelligence platform. Upload contracts, agreements, a
 
 Built as an MVP that runs **$0/month** on Vercel Hobby (free tier) plus free tiers of Supabase, HuggingFace, and Groq.
 
+Demo Link- https://legallens-bice.vercel.app/
+
 ---
 
 ## Architecture
